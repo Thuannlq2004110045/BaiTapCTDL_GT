@@ -24,7 +24,7 @@ public class AppleLinkedListTestDrive {
             luaChon = scanner.nextInt();
             switch (luaChon) {
                 case 1:
-                    listTao.adddauDS(data);
+                    listTao.nhap();
                     break;
                 case 2:
                     System.out.print("Nhập số lượng táo: ");
