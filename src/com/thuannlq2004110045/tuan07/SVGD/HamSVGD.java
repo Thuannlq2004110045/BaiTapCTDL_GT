@@ -72,7 +72,7 @@ public class HamSVGD {
         if (head == null) {// thêm 1 nút vào danh sách
             head = newNode;
             tail = newNode;
-        } else {// danh sách không rỗng // thêm vào đuôi danh sách
+        } else {// danh sách không rỗng // thêm vào đầu danh sách
             newNode.next = head;
             head = newNode;
         }
