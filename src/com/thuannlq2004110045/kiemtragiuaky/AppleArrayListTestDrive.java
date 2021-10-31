@@ -26,7 +26,7 @@ public class AppleArrayListTestDrive {
         do{
         System.out.println("=============================MENU==========================");
         System.out.println("=  1.Thêm danh sách táo.                                  =");
-        System.out.println("=  2.Tìm táo theo tên.                                    =");
+        System.out.println("=  2.Tìm táo theo màu.                                    =");
         System.out.println("=  3.Xuất danh sách táo.                                  =");
         System.out.println("=  4.Kết thúc.                                            =");
         System.out.println("=============================MENU==========================");
